@@ -1,2 +1,3 @@
 # stepik_qa
-test
+test 0
+test 1
