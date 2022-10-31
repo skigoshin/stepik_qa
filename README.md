@@ -1,3 +1,2 @@
 # stepik_qa_automation_selenium_python
-homework
-test selenium python stepik
+test
