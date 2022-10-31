@@ -1,2 +1,2 @@
-# stepik_qa_automation_selenium_python
+# stepik_qa
 test
